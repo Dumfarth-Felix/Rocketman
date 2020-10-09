@@ -57,10 +57,45 @@ Our assigment of task is that we build and code a suitcase that can start a rock
 
 
 == Project start
-After our yet to be meeting with DJ Ernecker
+08.10.2020
 
 == Project End
-When we get our Diploma or when we are done
+2022
 
+== Project resources
 
+|===
+|infrastructure |sum
+|Workshop |-
+|===
 
+|===
+|staff |amount
+|programmers |2
+|hardware technician |3
+|===
+
+|===
+|material |amount |price per piece |sum
+|RFM95 LoRa |1 |18,50€ |18,50€
+|Raspberry Pi 4 |1 |77,50€ |77,50€
+|SX1268 433M LORA HAT |1 |30€ |30€
+|Sicherheitsabdeckungen für Kippschalter|1 |3,02€ |3,02€
+|Kippschalter |1 |- |-
+|LCD Display |1 |0,24€ |0,24€
+|Taster mit Abdeckung |1 |5,49€ |5,49€
+|Touchscreen |1 |121,84€ |121,84€
+|Joystick |1 |3,36€ |3,36€
+|Schlüsselschalter |1 |4,83€ |4,83€
+|Power Schalter (ohne Abdeckung) |1 |0,83€ |0,83€
+|Stromversorgung |1 |- |-
+|XBee 568-Modul |1 |- |-
+|===
+Sum: 260,12€
+
+== Project risks
+* Less communication between team members from different classes
+
+== Project team
+* Felix Dumfarth
+* Sarah Feichtinger
