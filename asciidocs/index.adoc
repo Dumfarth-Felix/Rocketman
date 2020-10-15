@@ -94,8 +94,16 @@ Our assigment of task is that we build and code a suitcase that can start a rock
 Sum: 260,12€
 
 == Project risks
-* Less communication between team members from different classes
+* communication between team members from different classes
+* Some hardware could not work the way we thought
+* We're blowing the budget
 
 == Project team
+=== 4AHITM
 * Felix Dumfarth
 * Sarah Feichtinger
+
+=== 4AHIF
+* Jan Kaufmann
+* Marcel Plakolb
+* Lukas Hain
