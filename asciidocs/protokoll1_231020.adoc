@@ -5,6 +5,7 @@
 - Professor Ernecker
 - 03 Synchronsprecher
 - 06 Sarah mit der Haube
+- Professor Palitsch-Infanger
 
 == Besprochenes
 - Github Projekt wird öffentlich
