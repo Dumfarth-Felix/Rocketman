@@ -1,7 +1,45 @@
 = Rocketman
+Feichtinger Sarah, Dumfarth Felix, Marcel Plakolb, Lukas Hain, Jan Kaufmann
+1.1.0, 2020-10-28
+:sourcedir: ../src/main/java
+:icons: font
+:sectnums:    // Nummerierung der Überschriften / section numbering
+:toc: left
 
-* https://dumfarth-felix.github.io/Rocketman/proposal[Projekt Auftrag]
+== Project Description
 
-Protokolle:
+20/21 4ahitm/4ahif Instrumentenkoffer zum Abschuss einer Rakete für den Cansat Wettbewerb
 
-* https://dumfarth-felix.github.io/Rocketman/protokoll1_231020[Protokoll 1, 23.10.2020]
+== Team
+
+=== 4AHITM
+* 03 DF
+* 06 FS
+
+=== 4AHIF
+* 17 PM
+* 10 HL
+* 14 KJ
+
+
+== Documents
+
+=== 4AHITM
+* https://htl-leonding-project.github.io/rocketman/ahitm/proposal[Projekt Auftrag (4AHITM)]
+
+* https://htl-leonding-project.github.io/rocketman/ahitm/system-specification[Pflichtenheft (4AHITM)]
+
+=== 4AHIF
+
+* https://htl-leonding-project.github.io/rocketman/ahif/proposal[Projekt Auftrag (4AHIF)]
+
+* https://htl-leonding-project.github.io/rocketman/ahif/system-specification[Pflichtenheft (4AHIF)]
+
+=== Protokolle
+* https://htl-leonding-project.github.io/rocketman/protokoll1_231020[Protokoll 1, 23.10.2020]
+
+== External Project Repository
+
+https://github.com/2021-4ahif-syp/assigment02-system-specification-rocketman[System Specification 4AHIF]
+
+https://ars.electronica.art/esero/de/projects/cansat/[CanSat Homepage]
